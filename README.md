@@ -3,8 +3,8 @@
 <h3 align="center"> Committed data scientist / data analyst candidate</h3>
 <img align="right" alt="Coding" width="400" src="https://web-camp.io/magazine/wp-content/uploads/2020/10/shutterstock_1599531706.jpg">
 
-- 🔭 I’m currently studying at **Msc Business Analytics, NTU Singapore**
-- 👔 I'm seeking full-time **data scientist / data analyst** position
+- 🔭 I’m currently studying at **Msc Business Analytics, NTU**
+- 👔 I'm seeking full-time **data scientist / data analyst** positions
 - 📫 How to reach me **ruijundi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
