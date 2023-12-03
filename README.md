@@ -1,6 +1,7 @@
 [![MasterHead](https://www.skillup.co/blog/content/images/2017/12/formation-bureautique.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Di Ruijun, Ryan</h1>
 <h3 align="center"> Committed data scientist / data analyst candidate</h3>
+<img align="right" alt="Coding" width="400" src="https://web-camp.io/magazine/wp-content/uploads/2020/10/shutterstock_1599531706.jpg">
 
 - 🔭 I’m currently studying at **Msc Business Analytics, NTU Singapore**
 - 👔 I'm seeking full-time **data scientist / data analyst** position
