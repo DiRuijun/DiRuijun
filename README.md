@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently studying at **Msc Business Analytics, NTU**
 - 👔 I'm seeking full-time **data scientist / data analyst** positions
+- 📝 Know my experience <a href="https://drive.google.com/file/d/1yPIED3MtJZWOwVMDRvSMyyjI2PSHgO6c/view?usp=sharing">**resume**</a>
 - 📫 Email me at **ruijundi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
