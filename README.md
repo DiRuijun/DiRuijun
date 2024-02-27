@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://web-camp.io/magazine/wp-content/uploads/2020/10/shutterstock_1599531706.jpg">
 
 - 🔭 I’m currently studying at **Msc Business Analytics, NTU**
-- 👔 I'm seeking full-time **data scientist / data analyst** positions
+- 👔 I'm seeking full-time **data scientist / data analyst** position
 - 📝 Know my experience <a href="https://drive.google.com/file/d/1yPIED3MtJZWOwVMDRvSMyyjI2PSHgO6c/view?usp=sharing">**resume**</a>
 - 📫 Email me at **ruijundi@gmail.com**
 
